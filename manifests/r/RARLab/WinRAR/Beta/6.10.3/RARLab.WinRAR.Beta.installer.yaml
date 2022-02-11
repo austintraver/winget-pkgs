@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2022/Jan/05
+# Automatically updated by the winget bot at 2022/Jan/24
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
 
 PackageIdentifier: RARLab.WinRAR.Beta
@@ -38,9 +38,9 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerUrl: https://www.rarlab.com/rar/winrar-x64-610b3.exe
-  InstallerSha256: 3CD345C14FDBFFF5976A26B6BFFECE4D6FFA5625A2C4A6F5EFBF5824B5684403
+  InstallerSha256: D27D54D981B9C4586DB14D3DBA94FBCBBE618B64DB46931F8847EDE4132903F7
 - Architecture: x86
   InstallerUrl: https://www.rarlab.com/rar/winrar-x32-610b3.exe
-  InstallerSha256: BC5D12315B855497D5EF8CD1F6CD5A61F9DD1B78A607CCF724193F28A9DE58CE
+  InstallerSha256: 14B42A0659535B2BDAB13D152229F8E5DB5FCEAEAD86FAE85C8C0DD8F5C553E7
 ManifestType: installer
 ManifestVersion: 1.1.0
